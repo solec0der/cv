@@ -12,18 +12,16 @@ Aspiring Software Engineer
 
 ## Currently
 
-* Working on my Bachelor's degree in Computer Science at the University of Applied Sciences in Brugg, Switzerland
-* Working @ POLYPOINT as a Full-Stack Developer
+* Full-Stack Software Engineer at [POLYPOINT](https://www.polypoint.ch/) in Bern, Switzerland and studying Computer Science at the [University of Applied Sciences and Arts Northwestern Switzerland](https://www.fhnw.ch/en) in Brugg-Windisch, Switzerland
 
-### Specialized in
+## Work Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`08.2021 - Now`
+**Full-Stack Software Engineer** at [POLYPOINT](https://www.polypoint.ch/) in Bern, Switzerland
+Technology Stack: Java, Spring Boot, Angular, MySQL, Kubernetes, Ansible, Docker, Azure DevOps, Oracle, Nomad, Consul
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`08.2020 - 07.2021`
+**Internship** at [POLYPOINT](https://www.polypoint.ch/) in Bern, Switzerland
 
 ## Education
 
@@ -39,50 +37,6 @@ __Trinity College, Cambridge__
 __Trinity College, Cambridge__
 
 - Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
 
 <!-- ### Footer
 
