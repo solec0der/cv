@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yannick Huggler's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yannick Huggler
+Aspiring Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:yannick@huggler.io">yannick@hugger.io</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+* Working on my Bachelor's degree in Computer Science at the University of Applied Sciences in Brugg, Switzerland
+* Working @ POLYPOINT as a Full-Stack Developer
 
 ### Specialized in
 
